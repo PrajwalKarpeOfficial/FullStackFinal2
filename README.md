@@ -1,2 +1,1 @@
-# FullStackFinal2
-Netflix Project
+# Netflix---Clone
